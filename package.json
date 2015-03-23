@@ -1,0 +1,28 @@
+{
+  "name": "fermata-flickr",
+  "version": "0.10.5",
+  "description": "Flickr plugin for Fermata",
+  "main": "fermata-flickr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natevw/fermata-flickr.git"
+  },
+  "keywords": [
+    "flickr",
+    "rest",
+    "api",
+    "fermata"
+  ],
+  "author": "Nathan Vander Wilt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natevw/fermata-flickr/issues"
+  },
+  "homepage": "https://github.com/natevw/fermata-flickr",
+  "peerDependencies": {
+    "fermata": "git://github.com/natevw/fermata.git#upcoming"
+  }
+}
