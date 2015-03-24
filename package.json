@@ -1,6 +1,6 @@
 {
   "name": "fermata-flickr",
-  "version": "0.10.5",
+  "version": "0.10.6",
   "description": "Flickr plugin for Fermata",
   "main": "fermata-flickr.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/natevw/fermata-flickr",
   "peerDependencies": {
-    "fermata": "git://github.com/natevw/fermata.git#upcoming"
+    "fermata": "^0.11.0-alpha3b"
   }
 }
